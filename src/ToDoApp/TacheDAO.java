@@ -11,7 +11,7 @@ public class TacheDAO {
     public TacheDAO() {
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/devops", "username", "password");
+            conn = DriverManager.getConnection("jdbc:mysql://eu-cdbr-west-02.cleardb.net/heroku_d872e4dc52ca00d", "b9511110efa375", "daebe916");
             stmt = conn.createStatement();
 
             if (!conn.isClosed())
