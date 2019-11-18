@@ -66,4 +66,9 @@ class TacheDAOTest {
             assertEquals("Message vide",e.getMessage());
         }
     }
+
+    @Test
+    void testRemove(){
+        assertTrue(tacheDAO.remove(tacheDAO.trouver("Unit Test").getId()));
+    }
 }

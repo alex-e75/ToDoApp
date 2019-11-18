@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bb34f95-605a-4f4e-8a9a-3ccf83eb101d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/TacheException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToDoApp/TacheDAOTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToDoApp/Tache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDoApp/Tache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoApp/ToDoApp/TacheDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoApp/ToDoApp/TacheDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ToDoApp/ToDoApp/TacheDAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ToDoApp/ToDoApp/TacheDAOTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ToDoApp/TacheDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDoApp/TacheDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToDoApp/TacheDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDoApp/TacheDAOTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
